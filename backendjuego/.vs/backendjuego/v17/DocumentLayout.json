@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\backendjuego.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\backendjuego.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\migrations\\dbcontextdmmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\migrations\\dbcontextdmmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\context\\dbcontextdm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\context\\dbcontextdm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\model\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\model\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\model\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\model\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\migrations\\20241027045026_addusertypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\migrations\\20241027045026_addusertypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\migrations\\20241027042832_addusernametousers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\migrations\\20241027042832_addusernametousers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\migrations\\20241027041203_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\migrations\\20241027041203_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\model\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\model\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\model\\historics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\model\\historics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\model\\documentshistorics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\model\\documentshistorics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|c:\\users\\suspi\\onedrive\\desktop\\backendjueg\\backendjuego\\backendjuego\\backendjuego.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BE79574-1B9A-48B8-9517-CB5FBC2106A3}|backendjuego\\backendjuego.csproj|solutionrelative:backendjuego\\backendjuego.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "backendjuego\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "backendjuego\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:47:31.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "backendjuego\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Service\\AuthService.cs",
+              "RelativeToolTip": "backendjuego\\Service\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:21:34.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbContextDM.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Context\\DbContextDM.cs",
+              "RelativeDocumentMoniker": "backendjuego\\Context\\DbContextDM.cs",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Context\\DbContextDM.cs",
+              "RelativeToolTip": "backendjuego\\Context\\DbContextDM.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAnwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T02:46:23.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbContextDMModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Migrations\\DbContextDMModelSnapshot.cs",
+              "RelativeDocumentMoniker": "backendjuego\\Migrations\\DbContextDMModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Migrations\\DbContextDMModelSnapshot.cs",
+              "RelativeToolTip": "backendjuego\\Migrations\\DbContextDMModelSnapshot.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwDIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T04:12:39.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\appsettings.json",
+              "RelativeDocumentMoniker": "backendjuego\\appsettings.json",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\appsettings.json",
+              "RelativeToolTip": "backendjuego\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T18:36:37.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "backendjuego.http",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\backendjuego.http",
+              "RelativeDocumentMoniker": "backendjuego\\backendjuego.http",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\backendjuego.http",
+              "RelativeToolTip": "backendjuego\\backendjuego.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-27T15:08:37.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Program.cs",
+              "RelativeDocumentMoniker": "backendjuego\\Program.cs",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Program.cs",
+              "RelativeToolTip": "backendjuego\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T02:35:58.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usertype.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Model\\Usertype.cs",
+              "RelativeDocumentMoniker": "backendjuego\\Model\\Usertype.cs",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Model\\Usertype.cs",
+              "RelativeToolTip": "backendjuego\\Model\\Usertype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T04:31:39.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\DTO\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "backendjuego\\DTO\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\DTO\\UserRegisterDto.cs",
+              "RelativeToolTip": "backendjuego\\DTO\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:03:50.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\DTO\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "backendjuego\\DTO\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\DTO\\UserLoginDto.cs",
+              "RelativeToolTip": "backendjuego\\DTO\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:03:32.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Model\\Users.cs",
+              "RelativeDocumentMoniker": "backendjuego\\Model\\Users.cs",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Model\\Users.cs",
+              "RelativeToolTip": "backendjuego\\Model\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:27:35.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Documents.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Model\\Documents.cs",
+              "RelativeDocumentMoniker": "backendjuego\\Model\\Documents.cs",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Model\\Documents.cs",
+              "RelativeToolTip": "backendjuego\\Model\\Documents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:24:47.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241027045026_AddUserTypes.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Migrations\\20241027045026_AddUserTypes.cs",
+              "RelativeDocumentMoniker": "backendjuego\\Migrations\\20241027045026_AddUserTypes.cs",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Migrations\\20241027045026_AddUserTypes.cs",
+              "RelativeToolTip": "backendjuego\\Migrations\\20241027045026_AddUserTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T04:50:26.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241027042832_AddUsernameToUsers.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Migrations\\20241027042832_AddUsernameToUsers.cs",
+              "RelativeDocumentMoniker": "backendjuego\\Migrations\\20241027042832_AddUsernameToUsers.cs",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Migrations\\20241027042832_AddUsernameToUsers.cs",
+              "RelativeToolTip": "backendjuego\\Migrations\\20241027042832_AddUsernameToUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T04:28:32.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241027041203_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Migrations\\20241027041203_Initial.cs",
+              "RelativeDocumentMoniker": "backendjuego\\Migrations\\20241027041203_Initial.cs",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Migrations\\20241027041203_Initial.cs",
+              "RelativeToolTip": "backendjuego\\Migrations\\20241027041203_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T04:12:04.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Historics.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Model\\Historics.cs",
+              "RelativeDocumentMoniker": "backendjuego\\Model\\Historics.cs",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Model\\Historics.cs",
+              "RelativeToolTip": "backendjuego\\Model\\Historics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:17:10.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Persons.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Model\\Persons.cs",
+              "RelativeDocumentMoniker": "backendjuego\\Model\\Persons.cs",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Model\\Persons.cs",
+              "RelativeToolTip": "backendjuego\\Model\\Persons.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:15:00.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DocumentsHistorics.cs",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Model\\DocumentsHistorics.cs",
+              "RelativeDocumentMoniker": "backendjuego\\Model\\DocumentsHistorics.cs",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\Model\\DocumentsHistorics.cs",
+              "RelativeToolTip": "backendjuego\\Model\\DocumentsHistorics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:30:45.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "backendjuego\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\appsettings.Development.json",
+              "RelativeToolTip": "backendjuego\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T03:12:03.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "backendjuego.csproj",
+              "DocumentMoniker": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\backendjuego.csproj",
+              "RelativeDocumentMoniker": "backendjuego\\backendjuego.csproj",
+              "ToolTip": "C:\\Users\\suspi\\OneDrive\\Desktop\\backendjueg\\backendjuego\\backendjuego\\backendjuego.csproj",
+              "RelativeToolTip": "backendjuego\\backendjuego.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T02:34:46.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
