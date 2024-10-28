@@ -11,6 +11,5 @@
 
         public int UserTypeId { get; set; }
         public  Usertype Usertype { get; set; }
-        public object UserType { get; internal set; }
     }
 }

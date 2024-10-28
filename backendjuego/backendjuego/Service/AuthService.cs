@@ -41,7 +41,7 @@ namespace backendjuego.Repository
         public async Task<Users> GetByEmailAsync(string eamil)
         {
             return await _context.Users
-                .Include(u => u.UserType)
+                .Include(u => u.Usertype)
                 .FirstOrDefaultAsync(u => u.Email == eamil);
         }
 

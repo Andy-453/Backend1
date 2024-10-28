@@ -141,3 +141,4 @@ C:\Users\suspi\OneDrive\Desktop\backendjueg\backendjuego\backendjuego\bin\Debug\
 C:\Users\suspi\OneDrive\Desktop\backendjueg\backendjuego\backendjuego\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\suspi\OneDrive\Desktop\backendjueg\backendjuego\backendjuego\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\suspi\OneDrive\Desktop\backendjueg\backendjuego\backendjuego\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\suspi\OneDrive\Desktop\backendjueg\backendjuego\backendjuego\obj\Debug\net8.0\backendjuego.sourcelink.json

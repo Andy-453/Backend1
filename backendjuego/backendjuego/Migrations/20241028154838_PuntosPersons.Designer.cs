@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using backendjuego.Context;
 
@@ -10,9 +11,11 @@ using backendjuego.Context;
 namespace backendjuego.Migrations
 {
     [DbContext(typeof(DbContextDM))]
-    partial class DbContextDMModelSnapshot : ModelSnapshot
+    [Migration("20241028154838_PuntosPersons")]
+    partial class PuntosPersons
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
